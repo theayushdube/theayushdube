@@ -7,15 +7,9 @@
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" />
   </p>
-  <p align="right">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
-  </p>
 </div>
 
----
-
-## 🚀 About Me  
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" align="right" width="300">  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300">  
 
 - 🎓 I have a **Bachelor of Computer Applications (BCA)** degree.  
 - 💻 I’m a **Django Web Developer**, specializing in backend development and database management.  
