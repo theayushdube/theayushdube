@@ -172,9 +172,11 @@
 
 ## 📊 GitHub Stats  
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theayushdube&theme=dark&hide_border=true)](https://github.com/theayushdube)
 <div align="center">
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theayushdube&theme=dark&hide_border=true" alt="Streak Stats" />
+  
+  <div style="display: flex; justify-content: space-between; gap:20px; background: white;">
+
    <img src="https://github-readme-stats.vercel.app/api?username=theayushdube&show_icons=true&theme=dark&hide_border=true" style="background: white;" width="49%" alt="GitHub Stats">
   </p>
   <br>
