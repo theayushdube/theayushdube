@@ -163,15 +163,17 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theayushdube&theme=dark&hide_border=true" width="48%" alt="Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=theayushdube&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayushdube&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theayushdube&theme=dracula" width="48%" alt="Activity Graph">
-</p>
+<div align="center">
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theayushdube&theme=dark&hide_border=true" width="49%" alt="Streak Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=theayushdube&show_icons=true&theme=dark&hide_border=true" width="49%" alt="GitHub Stats">
+  </div>
+  <br>
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayushdube&layout=compact&theme=dark&hide_border=true" width="49%" alt="Top Languages">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theayushdube&theme=dracula" width="49%" alt="Activity Graph">
+  </div>
+</div>
 
 ---
 
