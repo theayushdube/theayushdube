@@ -21,35 +21,52 @@
 
 ---
 
-## 💼 Work Experience  
-<img src="https://media.giphy.com/media/jnSLL9ly8DeGZmcN4p/giphy.gif" align="right" width="300">  
+## 💼 Work Experience   <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="40">
+<img src="https://media.giphy.com/media/jnSLL9ly8DeGZmcN4p/giphy.gif" align="right" width="300"> 
 
-- ✅ Developed and maintained **company websites** using Django, HTML, CSS, JavaScript, and MSSQL.  
-- ✅ Implemented **Stripe and PayPal** payment gateway integrations, embedded directly on websites.  
-- ✅ Connected **Django templates to WordPress databases** for real-time data retrieval.  
-- ✅ Built **API-based dashboards** displaying live **Stripe transaction data**.  
-- ✅ Designed **React-based tourism, florist, restaurant, and café websites**.  
+### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28"> &nbsp;Web Development
+* 🖥️ Developed and maintained company websites using Django, HTML, CSS, JavaScript, and MSSQL
+* ⚛️ Designed modern React-based websites for tourism, hospitality, and retail businesses
+
+### <img src="https://media.giphy.com/media/hQWgZSP0O3Pk6mqHwd/giphy.gif" width="28"> &nbsp;Payment Integration
+* 💳 Implemented Stripe and PayPal payment gateway integrations with real-time processing
+* 📊 Built API-based dashboards displaying live transaction data and payment analytics
+
+### <img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" width="28"> &nbsp;System Integration
+* 🔄 Connected Django templates to WordPress databases for seamless data retrieval
+* 🔌 Developed custom API interfaces for complex data visualization and management
 
 ---
 
-## 📌 Projects  
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="300">  
+## 📌 Projects   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="300"> 
 
-- 💰 **Payment Page (addfunds.html)**
-  - Implemented **Stripe and PayPal** embedded payments with real-time updates.
-- 💳 **Invoice Payments (invoicepayments.html)**
-  - Integrated **Stripe API** to fetch and display **live transaction history**.
-- 🔄 **DID Management System**
-  - Displayed **DID data from APIs** in a user-friendly table.
-- 📞 **SIP Endpoints Management**
-  - Dynamically populated tables with **SIP endpoint data**.
-- 📊 **Tariff Plans**
-  - Fetched **tariff details** via API into a structured table.
-- 🎨 **React-based Websites**
-  - Developed **tourism, florist, restaurant, and café websites**.
-- 🛠 **Flow Builder**
-  - Created a drag-and-drop **workflow system** for automation.
+### <img src="https://media.giphy.com/media/XGmKk8JVrHWsABx8U7/giphy.gif" width="28"> &nbsp;Payment Solutions
+* 💸 **Payment Portal**
+   * <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="20"> Implemented Stripe and PayPal embedded payments with real-time updates
+* 📄 **Invoice System**
+   * <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="20"> Integrated Stripe API to fetch and display live transaction history
 
+### <img src="https://media.giphy.com/media/HPWsTXcZ3mnHnZV2je/giphy.gif" width="28"> &nbsp;Telecommunications Management
+* 📞 **DID Management System**
+   * <img src="https://media.giphy.com/media/U3UP4fTE6QfuoooLaC/giphy.gif" width="20"> Created intuitive interface for DID data visualization
+* 📱 **SIP Endpoints Dashboard**
+   * <img src="https://media.giphy.com/media/U3UP4fTE6QfuoooLaC/giphy.gif" width="20"> Designed dynamic tables for endpoint monitoring
+* 📊 **Tariff Plans Interface**
+   * <img src="https://media.giphy.com/media/U3UP4fTE6QfuoooLaC/giphy.gif" width="20"> Developed API-driven tariff comparison system
+
+### <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="28"> &nbsp;Web Applications
+* 🌐 **Industry-Specific Websites**
+   * <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="20"> Delivered custom React-based solutions for tourism, florist, restaurant, and café businesses
+* ⚙️ **Flow Builder**
+   * <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="20"> Engineered a drag-and-drop workflow system for business process automation
+
+<div align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100">
+</div>
 ---
 
 ## 🛠 Languages & Tools  
