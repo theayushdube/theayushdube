@@ -7,7 +7,7 @@
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" />
   </p>
-  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/shubhajit?logo=twitter&style=for-the-badge" alt="theayushdube" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/theayushdube?logo=twitter&style=for-the-badge" alt="theayushdube" /></a> </p>
 </div>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300">  
@@ -22,13 +22,13 @@
 ---
 
 ## 💼 Work Experience   <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="40">
-<img src="https://media.giphy.com/media/jnSLL9ly8DeGZmcN4p/giphy.gif" align="right" width="300"> 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300"> 
 
 ### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28"> &nbsp;Web Development
 * 🖥️ Developed and maintained company websites using Django, HTML, CSS, JavaScript, and MSSQL
 * ⚛️ Designed modern React-based websites for tourism, hospitality, and retail businesses
 
-### <img src="https://media.giphy.com/media/hQWgZSP0O3Pk6mqHwd/giphy.gif" width="28"> &nbsp;Payment Integration
+### <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="28"> &nbsp;Payment Integration
 * 💳 Implemented Stripe and PayPal payment gateway integrations with real-time processing
 * 📊 Built API-based dashboards displaying live transaction data and payment analytics
 
@@ -39,15 +39,15 @@
 ---
 
 ## 📌 Projects   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="300"> 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" align="right" width="300"> 
 
-### <img src="https://media.giphy.com/media/XGmKk8JVrHWsABx8U7/giphy.gif" width="28"> &nbsp;Payment Solutions
+### <img src="https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif" width="28"> &nbsp;Payment Solutions
 * 💸 **Payment Portal**
    * <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="20"> Implemented Stripe and PayPal embedded payments with real-time updates
 * 📄 **Invoice System**
    * <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="20"> Integrated Stripe API to fetch and display live transaction history
 
-### <img src="https://media.giphy.com/media/HPWsTXcZ3mnHnZV2je/giphy.gif" width="28"> &nbsp;Telecommunications Management
+### <img src="https://media.giphy.com/media/3o7qDVOj1jrFIXMIM0/giphy.gif" width="28"> &nbsp;Telecommunications Management
 * 📞 **DID Management System**
    * <img src="https://media.giphy.com/media/U3UP4fTE6QfuoooLaC/giphy.gif" width="20"> Created intuitive interface for DID data visualization
 * 📱 **SIP Endpoints Dashboard**
@@ -67,6 +67,7 @@
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100">
 </div>
+
 ---
 
 ## 🛠 Languages & Tools  
