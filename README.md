@@ -7,6 +7,7 @@
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" />
   </p>
+  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/shubhajit?logo=twitter&style=for-the-badge" alt="theayushdube" /></a> </p>
 </div>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300">  
