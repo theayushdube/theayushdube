@@ -1,13 +1,17 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://camo.githubusercontent.com/9ac2c2b487bde93b997278d1cbb236a236ca3fdff68fa31c436df899c3624094/68747470733a2f2f696d672e6672656570696b2e636f6d2f766563746f722d677261706869632f63726561746976652d7765622d646576656c6f706d656e742d636f6e636570742d62616e6e65722d61627374726163742d666c6f6174696e672d6f6e2d6461726b2d626c75652d6261636b67726f756e642d776974682d686561642d6f662d612d776f6d616e2d776f726b696e672e6a7067)
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">Django Web Developer | React.js Enthusiast | Payment Integration Expert</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" /> </p>
 
-### 🚀 About Me  
+---
+
+## 🚀 About Me  
 - 🎓 I have a **Bachelor of Computer Applications (BCA)** degree.  
 - 💻 I’m currently working as a **Django Web Developer**, specializing in backend development and database management.  
 - 🔭 My expertise includes **Django, React.js, PostgreSQL, Stripe, PayPal, HTML, CSS, JavaScript, MSSQL, and API Integrations**.  
@@ -17,7 +21,7 @@
 
 ---
 
-### 💼 Work Experience  
+## 💼 Work Experience  
 - ✅ Developed and maintained **company websites** using Django, HTML, CSS, JavaScript, and MSSQL.  
 - ✅ Implemented **Stripe and PayPal payment gateway integrations** directly embedded on websites.  
 - ✅ Connected **Django templates to WordPress databases** to fetch and display data dynamically.  
@@ -27,7 +31,7 @@
 
 ---
 
-### 📌 Projects  
+## 📌 Projects  
 - 💰 **Payment Page (addfunds.html)**
   - Implemented **Stripe and PayPal** embedded payments with live transaction updates.
 - 💳 **Invoice Payments (invoicepayments.html)**
@@ -45,59 +49,53 @@
 
 ---
 
-### 🛠 Skills  
-#### Programming & Frameworks  
-- **Python | Django | React.js | Node.js | HTML | CSS | JavaScript | PHP**  
-#### Databases  
+## 🛠 Languages & Tools  
+### 🔹 Programming & Frameworks  
+- **Python | Django | React.js | Node.js | HTML | CSS | JavaScript | PHP | Bootstrap**  
+### 🔹 Databases  
 - **PostgreSQL | MSSQL | MySQL**  
-#### Payment Gateways  
+### 🔹 Payment Gateways  
 - **Stripe | PayPal | UPI Integration**  
-#### Web Development  
-- **Django Templating | Bootstrap | API Development | Git & GitHub**  
+### 🔹 Web Development & Tools  
+- **Django Templating | API Development | Git & GitHub | REST APIs | Docker | Postman | AWS | Firebase**  
+### 🔹 Others  
+- **Figma | UI/UX Design | Linux | Nginx | Apache**  
 
 ---
 
-### 🌍 Connect with Me  
-<a href="https://linkedin.com/in/yourlinkedin" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourlinkedin" height="30" width="40" />
-</a>
-<a href="https://twitter.com/yourtwitter" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourtwitter" height="30" width="40" />
-</a>
-
----
-
-### 🛠 Languages & Tools  
+## 🌍 Connect with Me  
 <p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <a href="https://instagram.com/yourinstagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <a href="https://wa.me/yourwhatsappnumber" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%23025E3C.svg?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://stripe.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="40" height="40"/>
-  </a>
-  <a href="https://developer.paypal.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" alt="paypal" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark)
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark&hide_border=true" width="48%" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages">
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourgithubusername&theme=react-dark&hide_border=true" width="48%" alt="GitHub Activity Graph">
+</p>
 
 ---
 
-💡 **Let's build something amazing together!** 🚀
+✨ **Let's build something amazing together!** 🚀
