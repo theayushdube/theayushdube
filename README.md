@@ -170,7 +170,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayushdube&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages">
-  <img src="https://activity-graph.herokuapp.com/graph?username=theayushdube&theme=react-dark&hide_border=true" width="48%" alt="GitHub Activity Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourgithubusername&theme=dracula" width="48%" alt="Activity Graph">
 </p>
 
 ---
