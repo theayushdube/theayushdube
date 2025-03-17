@@ -165,12 +165,12 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <div style="display: flex; justify-content: space-between; background: white;">
+  <div style="display: flex; justify-content: space-between; gap:20px; background: white;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=theayushdube&theme=dark&hide_border=true" style="background: white;" width="49%" alt="Streak Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=theayushdube&show_icons=true&theme=dark&hide_border=true" style="background: white;" width="49%" alt="GitHub Stats">
   </div>
   <br>
-  <div style="display: flex; justify-content: space-between;">
+  <div style="display: flex; justify-content: space-between; gap:20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayushdube&layout=compact&theme=dark&hide_border=true" width="49%" alt="Top Languages">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theayushdube&theme=dracula" width="49%" alt="Activity Graph">
   </div>
