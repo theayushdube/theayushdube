@@ -7,7 +7,7 @@
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" />
   </p>
-  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/theayushdube?logo=twitter&style=for-the-badge" alt="theayushdube" /></a> </p>
+  <p align="left"> <a href="https://x.com/AyushDu10567021?t=OnRHO17GtZNP6oSIAluuOw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/theayushdube?logo=twitter&style=for-the-badge" alt="theayushdube" /></a> </p>
 </div>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300">  
@@ -108,19 +108,19 @@
 
 ## 🌍 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://linkedin.com/in/theayushdube" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
+  <a href="https://x.com/AyushDu10567021?t=OnRHO17GtZNP6oSIAluuOw&s=09" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
-  <a href="https://instagram.com/yourinstagram" target="_blank">
+  <a href="https://instagram.com/theayushdube" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://wa.me/yourwhatsappnumber" target="_blank">
+  <a href="https://wa.me/8766621138" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%23025E3C.svg?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:ayushdubey2486@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
