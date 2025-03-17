@@ -164,13 +164,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark&hide_border=true" width="48%" alt="Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theayushdube&theme=dark&hide_border=true" width="48%" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=theayushdube&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourgithubusername&theme=react-dark&hide_border=true" width="48%" alt="GitHub Activity Graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayushdube&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages">
+  <img src="https://activity-graph.herokuapp.com/graph?username=theayushdube&theme=react-dark&hide_border=true" width="48%" alt="GitHub Activity Graph">
 </p>
 
 ---
