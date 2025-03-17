@@ -1,65 +1,95 @@
-![MasterHead](https://camo.githubusercontent.com/9ac2c2b487bde93b997278d1cbb236a236ca3fdff68fa31c436df899c3624094/68747470733a2f2f696d672e6672656570696b2e636f6d2f766563746f722d677261706869632f63726561746976652d7765622d646576656c6f706d656e742d636f6e636570742d62616e6e65722d61627374726163742d666c6f6174696e672d6f6e2d6461726b2d626c75652d6261636b67726f756e642d776974682d686561642d6f662d612d776f6d616e2d776f726b696e672e6a7067)
+![MasterHead](https://raw.githubusercontent.com/yourgithubusername/yourgithubusername/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">Django Web Developer | React.js Enthusiast | Payment Integration Expert</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation">
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" /> </p>
+<div align="center">
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" />
+  </p>
+  <p align="right">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+  </p>
+</div>
 
 ---
 
 ## 🚀 About Me  
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" align="right" width="300">  
+
 - 🎓 I have a **Bachelor of Computer Applications (BCA)** degree.  
-- 💻 I’m currently working as a **Django Web Developer**, specializing in backend development and database management.  
+- 💻 I’m a **Django Web Developer**, specializing in backend development and database management.  
 - 🔭 My expertise includes **Django, React.js, PostgreSQL, Stripe, PayPal, HTML, CSS, JavaScript, MSSQL, and API Integrations**.  
-- 🌱 I’m currently learning **Advanced API integrations, Web Security, and Scalable System Design**.  
-- 👯 I’m looking to collaborate on **Django, React, and Payment Gateway projects**.  
+- 🌱 Currently learning **Advanced API integrations, Web Security, and Scalable System Design**.  
+- 👯 I love collaborating on **Django, React, and Payment Gateway projects**.  
 - ⚡ Fun fact: **I debug more than I code! 😂**  
 
 ---
 
 ## 💼 Work Experience  
+<img src="https://media.giphy.com/media/jnSLL9ly8DeGZmcN4p/giphy.gif" align="right" width="300">  
+
 - ✅ Developed and maintained **company websites** using Django, HTML, CSS, JavaScript, and MSSQL.  
-- ✅ Implemented **Stripe and PayPal payment gateway integrations** directly embedded on websites.  
-- ✅ Connected **Django templates to WordPress databases** to fetch and display data dynamically.  
-- ✅ Created **API-based dashboards** to display Stripe transaction data.  
-- ✅ Worked on a **flow builder project**, integrating workspaces, modules, metadata, security, reporting, and dynamic workflow creation.  
+- ✅ Implemented **Stripe and PayPal** payment gateway integrations, embedded directly on websites.  
+- ✅ Connected **Django templates to WordPress databases** for real-time data retrieval.  
+- ✅ Built **API-based dashboards** displaying live **Stripe transaction data**.  
 - ✅ Designed **React-based tourism, florist, restaurant, and café websites**.  
 
 ---
 
 ## 📌 Projects  
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="300">  
+
 - 💰 **Payment Page (addfunds.html)**
-  - Implemented **Stripe and PayPal** embedded payments with live transaction updates.
+  - Implemented **Stripe and PayPal** embedded payments with real-time updates.
 - 💳 **Invoice Payments (invoicepayments.html)**
-  - Integrated **Stripe API** to fetch and display **real-time transaction history**.
+  - Integrated **Stripe API** to fetch and display **live transaction history**.
 - 🔄 **DID Management System**
-  - Displayed **DID data from APIs** in a user-friendly table format.
+  - Displayed **DID data from APIs** in a user-friendly table.
 - 📞 **SIP Endpoints Management**
-  - Fetched **SIP endpoints from an API** to dynamically populate tables.
+  - Dynamically populated tables with **SIP endpoint data**.
 - 📊 **Tariff Plans**
-  - Built a dynamic table fetching tariff plan details from an API.
+  - Fetched **tariff details** via API into a structured table.
 - 🎨 **React-based Websites**
-  - Designed and deployed **tourism, florist, restaurant, and café websites**.
+  - Developed **tourism, florist, restaurant, and café websites**.
 - 🛠 **Flow Builder**
-  - Created a drag-and-drop **workflow system with nodes and edges**.
+  - Created a drag-and-drop **workflow system** for automation.
 
 ---
 
 ## 🛠 Languages & Tools  
+
 ### 🔹 Programming & Frameworks  
-- **Python | Django | React.js | Node.js | HTML | CSS | JavaScript | PHP | Bootstrap**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
 ### 🔹 Databases  
-- **PostgreSQL | MSSQL | MySQL**  
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
 ### 🔹 Payment Gateways  
-- **Stripe | PayPal | UPI Integration**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-%236F4CBB.svg?style=for-the-badge&logo=stripe&logoColor=white">
+  <img src="https://img.shields.io/badge/PayPal-%23003A99.svg?style=for-the-badge&logo=paypal&logoColor=white">
+</p>
+
 ### 🔹 Web Development & Tools  
-- **Django Templating | API Development | Git & GitHub | REST APIs | Docker | Postman | AWS | Firebase**  
-### 🔹 Others  
-- **Figma | UI/UX Design | Linux | Nginx | Apache**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+</p>
 
 ---
 
@@ -84,18 +114,4 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark&hide_border=true" width="48%" alt="Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourgithubusername&theme=react-dark&hide_border=true" width="48%" alt="GitHub Activity Graph">
-</p>
-
----
-
-✨ **Let's build something amazing together!** 🚀
+✨ **Let’s create something awesome together!** 🚀🔥
