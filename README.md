@@ -1,18 +1,17 @@
-![MasterHead](https://raw.githubusercontent.com/yourgithubusername/yourgithubusername/main/banner.gif)
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-L4MGP-ZCtnM/X1m4nU-MO8I/AAAAAAAAAAM/Wz2mt3fbRm42b4UbTgE6H94ykTE5KZTJACLcBGAsYHQ/s0/coding.gif" width="100%" alt="Master Head">
+</p>
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">Django Web Developer | React.js Enthusiast | Payment Integration Expert</h3>
 
-<div align="center">
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" />
-  </p>
-  <p align="right">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
-  </p>
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
----
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+</p>
 
 ## 🚀 About Me  
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" align="right" width="300">  
