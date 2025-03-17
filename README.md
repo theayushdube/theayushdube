@@ -27,7 +27,7 @@
 ---
 
 ## 💼 Work Experience  
-<img src="https://media.giphy.com/media/jnSLL9ly8DeGZmcN4p/giphy.gif" align="right" width="300">  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300">  
 
 - ✅ Developed and maintained **company websites** using Django, HTML, CSS, JavaScript, and MSSQL.  
 - ✅ Implemented **Stripe and PayPal** payment gateway integrations, embedded directly on websites.  
