@@ -39,9 +39,9 @@
 ---
 
 ## 📌 Projects   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" align="right" width="300"> 
+<img src="https://media.giphy.com/media/LOtwcbjWL6Pwr2qO8t/giphy.gif?cid=790b7611stj6bh4stbak6i13f8qy8jn138jkepm4w5jpq7vq&ep=v1_stickers_search&rid=giphy.gif&ct=s" align="right" width="300"> 
 
-### <img src="https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif" width="28"> &nbsp;Payment Solutions
+### <img src="https://media.giphy.com/media/KUMKFqbfu9hQi30jck/giphy.gif?cid=790b7611fodj64reb98pjq1wk0rtpy2zfev9oce91ap517jn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="28"> &nbsp;Payment Solutions
 * 💸 **Payment Portal**
    * <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="20"> Implemented Stripe and PayPal embedded payments with real-time updates
 * 📄 **Invoice System**
