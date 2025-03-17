@@ -12,8 +12,8 @@
 
 <img src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" align="right" width="300">  
 
-- 🎓 I have a **Bachelor of Computer Applications (BCA)** degree.  
-- 💻 I’m a **Django Web Developer**, specializing in backend development and database management.  
+- 🎓 I have a **Bachelor of Technology IT (B.Tech IT)** degree.  
+- 💻 I’m a **Data Analyst**, specializing in backend development and database management.  
 - 🔭 My expertise includes **Django, React.js, PostgreSQL, Stripe, PayPal, HTML, CSS, JavaScript, MSSQL, and API Integrations**.  
 - 🌱 Currently learning **Advanced API integrations, Web Security, and Scalable System Design**.  
 - 👯 I love collaborating on **Django, React, and Payment Gateway projects**.  
