@@ -47,7 +47,7 @@
 * 📄 **Invoice System**
    * <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="20"> Integrated Stripe API to fetch and display live transaction history
 
-### <img src="https://media.giphy.com/media/3o7qDVOj1jrFIXMIM0/giphy.gif" width="28"> &nbsp;Telecommunications Management
+### <img src="https://media.giphy.com/media/wtkmmcMyLOo30gZY4R/giphy.gif?cid=790b7611ph0fwu393bcbws6072o6ncqvv32z2504ltormyxt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="28"> &nbsp;Telecommunications Management
 * 📞 **DID Management System**
    * <img src="https://media.giphy.com/media/U3UP4fTE6QfuoooLaC/giphy.gif" width="20"> Created intuitive interface for DID data visualization
 * 📱 **SIP Endpoints Dashboard**
