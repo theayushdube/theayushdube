@@ -1,7 +1,7 @@
-![MasterHead](https://raw.githubusercontent.com/yourgithubusername/yourgithubusername/main/banner.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Django Web Developer | React.js Enthusiast | Payment Integration Expert</h3>
+<h1 align="center">Hi 👋, I'm Ayush Dubey</h1>
+<h3 align="center">Data Analyst | Django Web Developer | React.js Enthusiast | Full-stack Developer | </h3>
 
 <div align="center">
   <p align="left">
