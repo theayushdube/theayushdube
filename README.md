@@ -1,17 +1,18 @@
-<p align="center">
-  <img src="https://1.bp.blogspot.com/-L4MGP-ZCtnM/X1m4nU-MO8I/AAAAAAAAAAM/Wz2mt3fbRm42b4UbTgE6H94ykTE5KZTJACLcBGAsYHQ/s0/coding.gif" width="100%" alt="Master Head">
-</p>
+![MasterHead](https://raw.githubusercontent.com/yourgithubusername/yourgithubusername/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">Django Web Developer | React.js Enthusiast | Payment Integration Expert</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" />
+  </p>
+  <p align="right">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+  </p>
+</div>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
-</p>
+---
 
 ## 🚀 About Me  
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" align="right" width="300">  
@@ -26,7 +27,7 @@
 ---
 
 ## 💼 Work Experience  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300">  
+<img src="https://media.giphy.com/media/jnSLL9ly8DeGZmcN4p/giphy.gif" align="right" width="300">  
 
 - ✅ Developed and maintained **company websites** using Django, HTML, CSS, JavaScript, and MSSQL.  
 - ✅ Implemented **Stripe and PayPal** payment gateway integrations, embedded directly on websites.  
