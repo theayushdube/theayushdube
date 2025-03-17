@@ -180,7 +180,6 @@
   <br>
   <div style="display: flex; justify-content: space-between; gap:20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theayushdube&layout=compact&theme=dark&hide_border=true" width="49%" alt="Top Languages">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theayushdube&theme=dark&hide_border=true" width="49%" alt="Activity Graph">
   </div>
 </div>
 
