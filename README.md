@@ -8,11 +8,8 @@
     <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" />
   </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=theayushdube" alt="theayushdube" />
-  </a>
-</p>
+ <p align="left"> <a href="https://x.com/AyushDu10567021?t=OnRHO17GtZNP6oSIAluuOw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/theayushdube?logo=twitter&style=for-the-badge" alt="theayushdube" /></a> </p>
+ </div>
 
 <img src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" align="right" width="300">  
 
